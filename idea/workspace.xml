@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19044fa5-16f3-41d0-a30a-86cec39102ea" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>log.level.controller</find>
+      <find>ASYNC_CONTROLLER_APPENDER</find>
+      <find>log.level.service</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pd-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pd-tools/pd-tools-user/src/main/java/com/itheima/pinda/user/annotation/EnableLoginArgResolver.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/resources/j2cache/caffeine.properties" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/resources/spy.properties" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/config/ExceptionConfiguration.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/config/AuthorityWebConfiguration.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/config/AuthorityMybatisAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/AuthorityApplication.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/config/AuthorityDatabaseAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/test/java/com/itheima/test/CacptchaTest.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/test/java/com/itheima/test/CaptchaTest.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/ValidateCodeService.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/impl/ValidateCodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/dao/auth/UserMapper.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/UserService.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/dao/auth/ResourceMapper.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/resources/mapper_authority/ResourceMapper.xml" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/ResourceService.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/impl/ResourceServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/impl/AuthManager.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/dao/auth/OptLogMapper.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/OptLogService.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/impl/OptLogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/controller/auth/LoginController.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/config/SysLogConfiguration.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-gateway/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-gateway/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-gateway/src/main/resources/j2cache/caffeine.properties" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/ZuulServerApplication.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/config/ZuulConfiguration.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/api/ResourceApiFallback.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/config/BaseFilter.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/filter/TokenContextFilter.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/filter/BaseFilter.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/api/ResourceApi.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/filter/AccessFilter.java" />
+        <option value="$PROJECT_DIR$/pd-tools/pd-tools-common/src/main/java/com/itheima/pinda/common/adapter/IgnoreTokenConfig.java" />
+        <option value="$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/controller/auth/MenuController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../work/libs/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\work\libs\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="pinda-authority" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="pinda-authority" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectId" id="21RYcGVCL8R25M7teyGETHfPx4H" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-apps" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="pinda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="pinda" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinda-authority" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinda-authority" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="pd-tools-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="pinda" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="Captcha&#9;PSI&#9;JAVA://com.wf.captcha.base.Captcha" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\itcast\pinda-authority\pd-apps\pd-gateway\src\main\resources\client" />
+      <recent name="D:\projects\itcast\pinda-authority\pd-apps\pd-auth\pd-auth-server\src\main\resources\client" />
+      <recent name="D:\projects\itcast\pinda-authority\pd-apps\pd-auth\pd-auth-entity\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AuthorityApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="AuthorityDatabaseAutoConfiguration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.pinda.authority.config.AuthorityDatabaseAutoConfiguration" />
+      <module name="pd-auth-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.pinda.authority.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaptchaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.CaptchaTest" />
+      <module name="pd-auth-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IgnoreTokenConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.pinda.common.adapter.IgnoreTokenConfig" />
+      <module name="pd-tools-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.pinda.common.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthorityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pd-auth-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.pinda.AuthorityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pd-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.pinda.ZuulServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AuthorityDatabaseAutoConfiguration" />
+      <item itemvalue="Application.CaptchaTest" />
+      <item itemvalue="Application.IgnoreTokenConfig" />
+      <item itemvalue="Spring Boot.AuthorityApplication" />
+      <item itemvalue="Spring Boot.ZuulServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IgnoreTokenConfig" />
+        <item itemvalue="Application.CaptchaTest" />
+        <item itemvalue="Application.AuthorityDatabaseAutoConfiguration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zhaoqx\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19044fa5-16f3-41d0-a30a-86cec39102ea" name="Default" comment="" />
+      <created>1585552790576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585552790576</updated>
+      <workItem from="1585552791822" duration="4233000" />
+      <workItem from="1585637446858" duration="902000" />
+      <workItem from="1585642820084" duration="856000" />
+      <workItem from="1585645652095" duration="732000" />
+      <workItem from="1585732693605" duration="110000" />
+      <workItem from="1585816231646" duration="993000" />
+      <workItem from="1585819438480" duration="948000" />
+      <workItem from="1585881941495" duration="1192000" />
+      <workItem from="1585905284228" duration="3089000" />
+      <workItem from="1586226560412" duration="3942000" />
+      <workItem from="1586251504426" duration="4386000" />
+      <workItem from="1586309410328" duration="4552000" />
+      <workItem from="1586334145554" duration="2945000" />
+      <workItem from="1586411023779" duration="16508000" />
+      <workItem from="1586484973237" duration="20470000" />
+      <workItem from="1586739901195" duration="25487000" />
+      <workItem from="1637905447255" duration="1633000" />
+      <workItem from="1638177473087" duration="776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91345000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47809666" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5483871" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7758064" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23489426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-entity/src/main/java/com/itheima/pinda/authority/entity/common/OptLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="71" column="37" lean-forward="false" selection-start-line="62" selection-start-column="7" selection-end-line="71" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/OptLogService.java" />
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-log/src/main/java/com/itheima/pinda/log/entity/OptLogDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-log/src/main/java/com/itheima/pinda/log/annotation/SysLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-log/src/main/java/com/itheima/pinda/log/event/SysLogListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.2.0/mybatis-plus-extension-3.2.0-sources.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="68" column="29" lean-forward="true" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/common/impl/OptLogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/impl/OptLogServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/dao/auth/OptLogMapper.java" />
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/config/SysLogConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/ResourceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/impl/ResourceServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/controller/auth/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-gateway/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-gateway/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-gateway/src/main/resources/j2cache/caffeine.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-common/src/main/java/com/itheima/pinda/common/config/BaseConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2863">
+          <caret line="56" column="22" lean-forward="false" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.2.1.RELEASE/spring-cloud-openfeign-core-2.2.1.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/config/ZuulConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/api/ResourceApiFallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#417#418#0" expanded="false" />
+            <element signature="e#498#499#0" expanded="false" />
+            <element signature="e#525#526#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/ZuulServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#665#666#0" expanded="false" />
+            <element signature="e#736#737#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/config/BaseFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-core/src/main/java/com/itheima/pinda/base/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="183" column="14" lean-forward="true" selection-start-line="183" selection-start-column="14" selection-end-line="183" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.1.RELEASE/spring-cloud-netflix-zuul-2.2.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/support/FilterConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="102" column="59" lean-forward="false" selection-start-line="102" selection-start-column="58" selection-end-line="102" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-jwt/src/main/java/com/itheima/pinda/auth/client/properties/AuthClientProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-jwt/src/main/java/com/itheima/pinda/auth/client/utils/JwtTokenClientUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-core/src/main/java/com/itheima/pinda/exception/BizException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-jwt/src/main/java/com/itheima/pinda/auth/utils/JwtUserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-core/src/main/java/com/itheima/pinda/context/BaseContextConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/controller/auth/ResourceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="136" column="43" lean-forward="false" selection-start-line="136" selection-start-column="37" selection-end-line="136" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-common/src/main/java/com/itheima/pinda/common/constant/CacheKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-core/src/main/java/com/itheima/pinda/exception/code/ExceptionCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="49" column="27" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="27" />
+          <folding>
+            <element signature="e#2308#2309#0" expanded="false" />
+            <element signature="e#2335#2336#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/biz/service/auth/impl/AuthManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="66" column="43" lean-forward="false" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/api/ResourceApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="19" column="53" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-entity/src/main/java/com/itheima/pinda/authority/dto/auth/ResourceQueryDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-entity/src/main/java/com/itheima/pinda/authority/entity/auth/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-core/src/main/java/com/itheima/pinda/context/BaseContextHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-user/src/main/java/com/itheima/pinda/user/resolver/ContextArgumentResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-user/src/main/java/com/itheima/pinda/user/interceptor/ContextHandlerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="874" column="12" lean-forward="false" selection-start-line="874" selection-start-column="12" selection-end-line="874" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/controller/auth/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="149" column="7" lean-forward="true" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/controller/common/DashboardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/filter/AccessFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="53" column="18" lean-forward="false" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+          <folding>
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1229#1230#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1346#1347#0" expanded="true" />
+            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1424#1425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/filter/BaseFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="24" column="53" lean-forward="false" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/controller/common/LoginLogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-973">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-core/src/main/java/com/itheima/pinda/base/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="121" column="32" lean-forward="true" selection-start-line="121" selection-start-column="32" selection-end-line="121" selection-end-column="32" />
+          <folding>
+            <element signature="e#2766#2767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-gateway/src/main/java/com/itheima/pinda/zuul/filter/TokenContextFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="56" column="27" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="27" />
+          <folding>
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+            <element signature="e#1353#1354#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-apps/pd-auth/pd-auth-server/src/main/java/com/itheima/pinda/authority/controller/auth/MenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="159" column="28" lean-forward="true" selection-start-line="159" selection-start-column="28" selection-end-line="159" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pd-tools/pd-tools-common/src/main/java/com/itheima/pinda/common/adapter/IgnoreTokenConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

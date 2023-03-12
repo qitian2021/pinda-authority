@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pd-tools-databases" />
+        <module name="pd-tools-user" />
+        <module name="pd-gateway" />
+        <module name="pd-tools-j2cache" />
+        <module name="pd-tools-xss" />
+        <module name="pd-tools-core" />
+        <module name="pd-tools-validator" />
+        <module name="pd-auth-server" />
+        <module name="pd-tools-dozer" />
+        <module name="pd-tools-common" />
+        <module name="pd-tools-swagger2" />
+        <module name="pd-auth-entity" />
+        <module name="pd-tools-jwt" />
+        <module name="pd-tools-log" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pd-apps" target="1.8" />
+      <module name="pd-auth" target="1.8" />
+      <module name="pd-auth-entity" target="1.8" />
+      <module name="pd-auth-server" target="1.8" />
+      <module name="pd-gateway" target="1.8" />
+      <module name="pd-parent" target="1.8" />
+      <module name="pd-tools" target="1.8" />
+      <module name="pd-tools-common" target="1.8" />
+      <module name="pd-tools-core" target="1.8" />
+      <module name="pd-tools-databases" target="1.8" />
+      <module name="pd-tools-dozer" target="1.8" />
+      <module name="pd-tools-j2cache" target="1.8" />
+      <module name="pd-tools-jwt" target="1.8" />
+      <module name="pd-tools-log" target="1.8" />
+      <module name="pd-tools-swagger2" target="1.8" />
+      <module name="pd-tools-user" target="1.8" />
+      <module name="pd-tools-validator" target="1.8" />
+      <module name="pd-tools-xss" target="1.8" />
+      <module name="pinda-authority" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="pd-auth-entity" options="-parameters" />
+      <module name="pd-auth-server" options="-parameters" />
+      <module name="pd-gateway" options="-parameters" />
+      <module name="pd-tools-common" options="-parameters" />
+      <module name="pd-tools-core" options="-parameters" />
+      <module name="pd-tools-databases" options="-parameters" />
+      <module name="pd-tools-dozer" options="-parameters" />
+      <module name="pd-tools-j2cache" options="-parameters" />
+      <module name="pd-tools-jwt" options="-parameters" />
+      <module name="pd-tools-log" options="-parameters" />
+      <module name="pd-tools-swagger2" options="-parameters" />
+      <module name="pd-tools-user" options="-parameters" />
+      <module name="pd-tools-validator" options="-parameters" />
+      <module name="pd-tools-xss" options="-parameters" />
+    </option>
+  </component>
+</project>
